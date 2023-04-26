@@ -1,3 +1,4 @@
 def square(x):
-	'''This function returns the square of the input'''
-	return x*x
+	'''This function gives a little
+	Self-hug to the input'''
+        return x*x
